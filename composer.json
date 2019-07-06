@@ -1,0 +1,13 @@
+{
+    "name": "andre302/php-web-dev",
+    "description": "test project in hexlet with Slim",
+    "authors": [
+        {
+            "name": "Andre302",
+            "email": "Andre302@k.ru"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
